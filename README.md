@@ -65,7 +65,7 @@ The goal is not to use high-level RL libraries, but to **understand and implemen
 | Deterministic | Mostly | Stochastic |
 
 ---
-## 📊 PPO Training Curve
+## 📊 Training Curve
 
 ![DQN_Training Progresss](RL_DQN_lunarlander_v3/training_progress_2.png)
 
